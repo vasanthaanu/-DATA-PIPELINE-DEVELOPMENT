@@ -103,4 +103,4 @@ This project offers a foundational understanding of building a modular and autom
 data processing logic suitable for both beginners and intermediate practitioners in data engineering and machine learning.
 
 #output
-[data1.csv](https://github.com/user-attachments/files/20809800/data1.csv)
+![Image](https://github.com/user-attachments/assets/c20d5b51-9b58-4a98-aa8f-d0ee858f20c9)
